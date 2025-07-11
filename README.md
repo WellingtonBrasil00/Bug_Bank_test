@@ -82,9 +82,3 @@ Alguns elementos na aplicação possuem problemas de visibilidade, por isso usam
 O saldo inicial é zero, portanto testes de transferência e saque consideram validação de saldo.
 
 
-Contato
-Wellington Martins
-GitHub
-LinkedIn
-Email: wellingtonbrasil69@gmail.com
-
