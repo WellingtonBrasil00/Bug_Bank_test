@@ -80,14 +80,7 @@ Alguns elementos na aplicação possuem problemas de visibilidade, por isso usam
 
 O saldo inicial é zero, portanto testes de transferência e saque consideram validação de saldo.
 
-Configurações Git
-Certifique-se de configurar seu usuário Git local antes de fazer commits:
 
-bash
-Copiar
-Editar
-git config --global user.name "Seu Nome"
-git config --global user.email "seuemail@example.com"
 Contato
 Wellington Martins
 GitHub
