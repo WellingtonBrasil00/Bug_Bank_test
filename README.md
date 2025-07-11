@@ -13,10 +13,6 @@ Os testes foram desenvolvidos utilizando Cypress, com foco em garantir a qualida
 
 - Cadastro de usuário com validações (nome, email, senha, confirmação de senha)
 - Login com credenciais válidas e inválidas
-- Transferência para a própria conta (mesmo número de conta)
-- Testes de pagamento
-- Visualização de extrato
-- Realização de saque
 - Validação de mensagens de erro e sucesso
 - Limpeza dos campos antes da digitação (uso de `.clear({force: true})`)
 - Uso do comando `{ force: true }` para lidar com elementos ocultos ou com problemas de visibilidade
