@@ -78,4 +78,19 @@ Email: wellingtonbrasil69@gmail.com
 Observações
 Alguns elementos na aplicação possuem problemas de visibilidade, por isso usamos o { force: true } para forçar ações do Cypress.
 
-O saldo inicial é zero, portanto testes de transferência e saque consideram validação de saldo.<img width="1920" height="1080" alt="Captura de Tela (56)" src="https://github.com/user-attachments/assets/73fc231b-19ac-4ac0-8eb7-419e610a0738" />
+O saldo inicial é zero, portanto testes de transferência e saque consideram validação de saldo.
+
+Configurações Git
+Certifique-se de configurar seu usuário Git local antes de fazer commits:
+
+bash
+Copiar
+Editar
+git config --global user.name "Seu Nome"
+git config --global user.email "seuemail@example.com"
+Contato
+Wellington Martins
+GitHub
+LinkedIn
+Email: wellingtonbrasil69@gmail.com
+
