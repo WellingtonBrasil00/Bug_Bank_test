@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Captura de Tela (56)" src="https://github.com/user-attachments/assets/56d7ab4d-3d05-41fa-a840-4e5490d296f1" />
 # BugBank - Testes Automatizados com Cypress
 
 ## Sobre o Projeto
