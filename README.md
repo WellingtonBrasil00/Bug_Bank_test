@@ -3,7 +3,7 @@
 
 ## Sobre o Projeto
 
-Este projeto consiste em testes automatizados para a aplicação web BugBank, simulando funcionalidades básicas de um banco digital, como cadastro, login, transferências, pagamentos, visualização de extrato e saque.
+Este projeto consiste em testes automatizados para a aplicação web BugBank, simulando funcionalidades básicas de um banco digital, como cadastro e login.
 
 Os testes foram desenvolvidos utilizando Cypress, com foco em garantir a qualidade do sistema e evitar regressões em funcionalidades críticas.
 
